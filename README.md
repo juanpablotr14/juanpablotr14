@@ -1,6 +1,6 @@
 <div align="center">
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FVictorFerraresi%2Fplatform-dinosaur-unity&psig=AOvVaw3zdJXiTaRTagSVxE0kGvh2&ust=1695486238962000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICxkMrQvoEDFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)" align="center" style="width: 100%" />
-</div>  
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" align="center" style="width: 100%" />
+</div>   
   
 
 ### <div align="center">Hi 👋, I'm Juan Pablo Tascón a passionate frontend developer from Colombia</div>  
