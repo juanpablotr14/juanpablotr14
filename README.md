@@ -96,12 +96,21 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+  
 
 <br/>  
 
-<div align="center"><img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juanpablotr14&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" /></div>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=juanpablotr14&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
+
+  
+
+<br/>  
+
+
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
